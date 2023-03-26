@@ -5,5 +5,5 @@ système de morpion avec tkinter pour jouer contre un bot / un ami
 pip install tkinter
 
 
->puis:
+>lancement:
 py morpion.py
