@@ -1,7 +1,7 @@
 # morpion
 système de morpion avec tkinter pour jouer contre un bot / un ami  
 
->lancement:
+>installation:
 pip install tkinter
 
 
