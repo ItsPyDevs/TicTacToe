@@ -1,9 +1,9 @@
 # morpion
-système de morpion avec tkinter pour jouer contre un bot / un ami  
+TicTacToe System for playing !
 
->installation:
-pip install tkinter
+>install:
+Clone this repository.
 
 
->lancement:
-py morpion.py
+>Run:
+python morpion.py
