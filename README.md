@@ -1,4 +1,4 @@
-# morpion
+# TTT
 TicTacToe System for playing !
 
 >install:
